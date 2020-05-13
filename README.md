@@ -3,8 +3,8 @@
 # ****Application for Basic Authentication using Spring boot***
 
 # API Endpoint url
-http://localhost:8080/product/api/{domian}/getproductdetails
-http://localhost:8080/product/api/banking/getproductdetails
+#http://localhost:8080/product/api/{domian}/getproductdetails
+#http://localhost:8080/product/api/banking/getproductdetails
 
 
 use the postman or google chrome testing above endpoint with Basic Auth
