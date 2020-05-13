@@ -28,8 +28,8 @@ public class ProductServiceImpl implements ProductService {
 
 		List<Product> prods = new ArrayList<Product>();
 		// adding dummy employees here
-		prods.add(new Product(counter.incrementAndGet(), "Test", "banking"));
-		prods.add(new Product(counter.incrementAndGet(), "Deepak", "retail"));
+		prods.add(new Product(counter.incrementAndGet(), "Test4", "banking"));
+		prods.add(new Product(counter.incrementAndGet(), "Test5", "retail"));
 		prods.add(new Product(counter.incrementAndGet(), "Test1", "banking"));
 		prods.add(new Product(counter.incrementAndGet(), "Test2", "banking"));
 		return prods;
