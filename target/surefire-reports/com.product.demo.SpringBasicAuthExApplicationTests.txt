@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.product.demo.SpringBasicAuthExApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.42 s - in com.product.demo.SpringBasicAuthExApplicationTests

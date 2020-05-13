@@ -14,7 +14,7 @@ use the postman or google chrome testing above endpoint with Basic Auth
 
 
 
-*** Running procedure
+*** Dependencies and  installation procedure
 
 Download the zip or clone the Git repository.
 ### Unzip the zip file (if you downloaded one)
